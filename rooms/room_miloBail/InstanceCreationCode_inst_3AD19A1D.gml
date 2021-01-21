@@ -1,0 +1,1 @@
+transition_create(room_overworld1, 2700, 1900, "Milo Bail Student Center");
